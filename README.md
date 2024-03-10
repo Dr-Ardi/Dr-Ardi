@@ -1,6 +1,6 @@
 - Hi, I’m @Dr-Ardi ✌🏻
 
-👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 
 -People ask me, "Ardi, why do you only use dark mode?"
 
