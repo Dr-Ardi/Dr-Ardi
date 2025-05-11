@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Ardi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Dr-Ardi's Cotribution](https://github-readme-stats.vercel.app/api?username=Dr-Ardi&show_icons=true&theme=dark)
-
+![Contributions](./images/contributions.png)
 
 # My Pinned Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=GoodPizzaGreatPizza)](https://github.com/Dr-Ardi/GoodPizzaGreatPizza)
