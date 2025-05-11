@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Ardi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# My Pinned Repositories
+# 🤖 Pinned Repositories:
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=GoodPizzaGreatPizza)](https://github.com/Dr-Ardi/GoodPizzaGreatPizza)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=ThessVivlio)](https://github.com/Dr-Ardi/ThessVivlio)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=WAFfle)](https://github.com/Dr-Ardi/WAFfle)
