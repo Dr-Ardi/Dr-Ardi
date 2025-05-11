@@ -9,7 +9,7 @@
 
 # My Pinned Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=GoodPizzaGreatPizza)](https://github.com/Dr-Ardi/GoodPizzaGreatPizza)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=github&repo=ThessVivlio)](https://github.com/Dr-Ardi/ThessVivlio)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=ThessVivlio)](https://github.com/Dr-Ardi/ThessVivlio)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=WAFfle)](https://github.com/Dr-Ardi/WAFfle)
 
 ---
