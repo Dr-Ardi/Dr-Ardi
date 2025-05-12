@@ -9,7 +9,7 @@
 
 # 🤖 Projects:
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&repo=project-name)](https://github.com/Dr-Ardi/project-name)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=The-Adventures-of-John-Watson)](https://github.com/Dr-Ardi/The-Adventures-of-John-Watson)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-Ardi&icon=2&color=4)](https://visitcount.itsvg.in)
