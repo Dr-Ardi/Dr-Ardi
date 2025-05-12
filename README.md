@@ -7,10 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Ardi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🤖 Projects:
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dr-Ardi&theme=dark&repo=The-Adventures-of-John-Watson)](https://github.com/Dr-Ardi/The-Adventures-of-John-Watson)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-Ardi&icon=2&color=4)](https://visitcount.itsvg.in)
 
